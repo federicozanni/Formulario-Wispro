@@ -20,5 +20,5 @@ npm start
 
 <img src="https://user-images.githubusercontent.com/65865555/124881818-27c94880-dfa6-11eb-9f0c-6b29c263d0db.png">
 
-<img src="https://user-images.githubusercontent.com/65865555/124881806-2566ee80-dfa6-11eb-96d4-b6ee1297e0c9.png>
+<img src="https://user-images.githubusercontent.com/65865555/124881806-2566ee80-dfa6-11eb-96d4-b6ee1297e0c9.png">
 
